@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: antiquewhite;
+    display: flex;
+    padding: 20px;
+}
+
+.logo {
+    color: #000;
+    
+
+}
+
+nav {
+    margin-left: auto;
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+}
