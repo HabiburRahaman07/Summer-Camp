@@ -1,0 +1,99 @@
+.header {
+    text-align: center;
+    background-color: rgb(217, 248, 229);
+}
+
+.header h1 {
+    font-size: xxx-large;
+    margin-top: -7px;
+    padding-top: 25px;
+}
+
+.header img {
+    width: 80%;
+}
+
+.header h4 {
+    margin-top: -39px;
+    margin-left: 49%;
+    font-family: cursive;
+    padding-bottom: 35px;
+}
+
+.schedule_section {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 0px 20px;
+}
+
+.schedule_table {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: #00363E;
+    width: 100%;
+}
+
+.schedule_table th {
+    width: 25%;
+    border: 1px solid rgb(43, 41, 41);
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(217, 248, 229);
+    color: #0B090D;
+}
+
+.schedule_table td {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #F1F0F2;
+}
+
+.registration_section {
+    background-color: rgb(217, 248, 229);
+    padding: 0% 30%;
+}
+
+.registration_section h2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.registration_form input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 9px 5px;
+}
+
+#select {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 9px 5px;
+}
+
+#register_btn {
+    width: 100%;
+    padding: 5px;
+    background-color: #0442BF;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 7px 13px #00362D;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 9px 5px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+#register_btn:hover {
+    background-color: #0dda4a;
+    box-shadow: 4px 7px 13px #145026;
+}
